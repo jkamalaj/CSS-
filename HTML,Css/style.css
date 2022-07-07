@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(97, 92, 77);
+   
+}
+table{
+    width: 600px; height: 300px;
+}
+p{
+    font-family: cursive;
+}
+h1{
+    color:rgb(136, 181, 228)
+}
+h3{
+    color: rgb(136, 181, 228);
+}
+ul{
+    color: white
+}
+ol{
+    font-family: cursive;;
+    color: white;
+}
+p{
+    color: white;
+}
+ul{
+    font-family:cursive
+ }
+
